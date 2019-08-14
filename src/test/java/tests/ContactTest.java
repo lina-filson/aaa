@@ -7,6 +7,6 @@ public class ContactTest {
     @Test
     public void test1(){
         System.out.println("driver open vytrack:)");
-        System.out.println("go to contacts page!!!!");
+        System.out.println("goes to the contacts page");
     }
 }
